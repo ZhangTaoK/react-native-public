@@ -1,4 +1,4 @@
-# react-native-public
+# react-native-public-ab
 
 基于RN版本 0.59.8
 

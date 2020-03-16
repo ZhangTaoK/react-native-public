@@ -1,4 +1,4 @@
-# react-native-public-ab
+# react-native-public-ui-ab
 
 基于RN版本 0.61.5
 
